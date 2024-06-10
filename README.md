@@ -2,19 +2,19 @@
 <h1 align = center> Telecom Churn Prediction Project</h1>
 
 
-## 📝 Description
+## Description
 - Customer churn is a critical challenge faced by telecom companies. Identifying customers who are likely to churn can help businesses take proactive measures to retain them.
 
 -  Churn, in this context, refers to the situation where customers terminate their subscriptions or switch to a competitors telecom service. 
 - By predicting churn in advance, telecom companies can proactively implement strategies to retain at-risk customers and minimize revenue loss.
 
-## ⏳ Dataset 
+## Dataset 
  Download the dataset for custom training data.
 
 The dataset consists of historical customer information, service usage, and churn status.
 
 
-## 🗂️Project Structure
+## Project Structure
 
 The project is organized into the following directories and files:
 - [Data](data/): The data folder contains both raw and processed data used in this project.
@@ -27,27 +27,9 @@ The project is organized into the following directories and files:
 - [app.py](app.py): This is the main application file that runs the project's web application.
 - [Requirements](requirements.txt): This requirements text file contains all the required dependencies that we need to install to run the project.
 
-## 🛠️How to Install and Run this Project?
-To get started with the project, follow these steps:
 
-1. Clone this repository to your local machine:
 
-```
-git clone https://github.com/usmanbvp/Telecom-Customer-Churn-Prediction.git
-```
-2. Install the project dependencies by running the following command:
-```
-pip install -r requirements.txt
-```
-
-3. Explore the project's directories and files to become familiar with its structure.
-
-4. To run the project, execute follwoing commad:
-```
-python app.py
-```
-
-## 👨🏻‍💻How to Use this Project?
+## How to Use this Project?
 
 Once you've successfully installed and run the project, you can use it to predict customer churn. Here's how to get started:
 1. Open your web browser and navigate to 
