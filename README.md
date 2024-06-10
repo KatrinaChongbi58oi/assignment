@@ -2,20 +2,6 @@
 <h1 align = center> Telecom Churn Prediction Project</h1>
 
 
-
-
-<div style = " margin-top: 30px;text-align : center">
-
-![GitHub forks](https://img.shields.io/github/forks/usmanbvp/Telecom-Customer-Churn-Prediction?style=flat-square&logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/usmanbvp/Telecom-Customer-Churn-Prediction?logo=GitHub)
-![GitHub contributors](https://img.shields.io/github/contributors/usmanbvp/Telecom-Customer-Churn-Prediction?logo=github&color=blue)
-[![Static Badge](https://img.shields.io/badge/View%20Demo-orange?style=flat-square&logo=github&logoColor=black&labelColor=hex)](https://churnprediction.pythonanywhere.com/)
-[![MIT License](https://img.shields.io/badge/MIT%20License-blue?style=flat-square&logo=Github&logoColor=black)](https://github.com/usmanbvp/Telecom-Customer-Churn-Prediction/blob/main/LICENSE)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/usmanbvp/Telecom-Customer-Churn-Prediction?style=flat-square&logo=github&logoColor=black)
-![GitHub issues](https://img.shields.io/github/issues/usmanbvp/Telecom-Customer-Churn-Prediction?logo=github&logoColor=black)
-
-</div>
-
 ## 📝 Description
 - Customer churn is a critical challenge faced by telecom companies. Identifying customers who are likely to churn can help businesses take proactive measures to retain them.
 
@@ -23,7 +9,7 @@
 - By predicting churn in advance, telecom companies can proactively implement strategies to retain at-risk customers and minimize revenue loss.
 
 ## ⏳ Dataset 
- Download the dataset for custom training [data](data/).
+ Download the dataset for custom training data.
 
 The dataset consists of historical customer information, service usage, and churn status.
 
