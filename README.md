@@ -25,34 +25,7 @@ The project is organized into the following directories and files:
 - [app.py](app.py): This is the main application file that runs the project's web application.
 - [Requirements](requirements.txt): This requirements text file contains all the required dependencies that we need to install to run the project.
 
-
-
-## How to Use this Project?
-
-Once you've successfully installed and run the project, you can use it to predict customer churn. Here's how to get started:
-1. Open your web browser and navigate to 
-```
-http://katrinachong.pythonanywhere.com
-```
-2. You will be presented with a user-friendly web app interface. Explore the available features and prediction options.
-<div style = "text-align: center;">
-<img width="390" alt="image" src="https://github.com/KatrinaChongbi58oi/assignment/assets/168342655/dc2c2bdd-cc7a-475b-97bc-0c1ae3280648">
-
-</div>
-
-
-
-3. Follow the on-screen instructions to input customer data and harness the prediction feature to anticipate future customer churn outcomes.
-
-4. The web app should provide you with results based on your input.
-
-<div style="text-align: center;">
-  <img src="https://github.com/usmanbvp/Telecom-Customer-Churn-Prediction/assets/119880028/c5ea1e81-0333-4433-92f2-604a1ee02c07" alt="prediction results" width="700" height="350">
-</div>
-
-5.After reviewing the results, you can take appropriate actions, make informed decisions, and apply the project to specific use cases, such as implementing attractive customer offers.
-
-## 🌐Deployment
+## Deployment
 
 To deploy this project, follow these steps:
 
