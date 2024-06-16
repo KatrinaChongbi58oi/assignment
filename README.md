@@ -41,7 +41,7 @@ To deploy this project, follow these steps:
 
 For more detailed deployment instructions specific to your chosen hosting service, refer to their official documentation and guidelines.
 
-Enjoy using the deployed version of the Telecom Churn Prediction project!
+
 
 <p align="center">
   <a href="http://katrinachong.pythonanywhere.com" style="color:#FF5733;">
