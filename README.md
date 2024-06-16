@@ -32,11 +32,12 @@ The project is organized into the following directories and files:
 Once you've successfully installed and run the project, you can use it to predict customer churn. Here's how to get started:
 1. Open your web browser and navigate to 
 ```
-http://127.0.0.1:5000/
+http://katrinachong.pythonanywhere.com
 ```
 2. You will be presented with a user-friendly web app interface. Explore the available features and prediction options.
 <div style = "text-align: center;">
-<img src="https://github.com/usmanbvp/Telecom-Customer-Churn-Prediction/assets/119880028/105fff23-0ec1-4eeb-95d1-2313c8c7e31b" alt="web interface" width = "700" height = "350">
+<img width="390" alt="image" src="https://github.com/KatrinaChongbi58oi/assignment/assets/168342655/dc2c2bdd-cc7a-475b-97bc-0c1ae3280648">
+
 </div>
 
 
