@@ -71,7 +71,7 @@ For more detailed deployment instructions specific to your chosen hosting servic
 Enjoy using the deployed version of the Telecom Churn Prediction project!
 
 <p align="center">
-  <a href="https://churnprediction.pythonanywhere.com/" style="color:#FF5733;">
+  <a href="http://katrinachong.pythonanywhere.com" style="color:#FF5733;">
     View Deployed Web App
   </a>
 </p>
