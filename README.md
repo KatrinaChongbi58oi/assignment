@@ -20,8 +20,6 @@ The project is organized into the following directories and files:
 - [Data](data/): The data folder contains both raw and processed data used in this project.
 - [Notebooks](notebooks/): This folder contains Jupyter notebooks with code covering data exploration, model building, and evaluation.
 - [Models](models/): This folder houses a collection of trained machine  learning models.
-- [Reports](reports/): This folder contains project reports, such as a Power BI data analysis report.
-- [images](images/): This folder contains all the relevant images used in this project, such as those used in document preparation, presentation materials, and visual aids to enhance understanding.
 - [Static](static/): This folder includes static files used in the project, such as images, stylesheets.
 - [Templates](templates/): The templates folder contains HTML templates used for rendering web pages.
 - [app.py](app.py): This is the main application file that runs the project's web application.
